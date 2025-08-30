@@ -1,18 +1,18 @@
 # Core data handling
-pandas==2.2.2
-pyarrow==17.0.0
+pandas>=2.2.3
+pyarrow>=17.0.0
 
 # Data quality checks
 great-expectations==0.18.14
 
 # Machine Learning
-scikit-learn==1.5.1
+scikit-learn>=1.5.2
 lightgbm==4.5.0
 
 # Deep Learning / NLP
-torch==2.3.1
-transformers==4.43.4
-sentence-transformers==3.0.1
+torch>=2.4.0
+transformers>=4.44.0
+sentence-transformers>=3.0.1
 
 # Utilities
 requests==2.32.3
