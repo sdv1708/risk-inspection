@@ -1,0 +1,31 @@
+# Core data handling
+pandas==2.2.2
+pyarrow==17.0.0
+
+# Data quality checks
+great-expectations==0.18.14
+
+# Machine Learning
+scikit-learn==1.5.1
+lightgbm==4.5.0
+
+# Deep Learning / NLP
+torch==2.3.1
+transformers==4.43.4
+sentence-transformers==3.0.1
+
+# Utilities
+requests==2.32.3
+tqdm==4.66.5
+rapidfuzz==3.10.0
+geopy==2.4.1
+
+# Visualization & dashboard
+matplotlib==3.9.2
+seaborn==0.13.2
+streamlit==1.38.0
+shap==0.46.0
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.29.5
